@@ -1,6 +1,6 @@
 # FTDI_Example
  This project shows how to interface with a FTDI device in C# using a .NET Core Console Application.
- This particular example uses the Entecc DMX USB Pro as example.
+ This particular example uses the Enttec DMX USB Pro as example.
  
 ## Usage
 Run the application with the FTDI device connected. It'll show a list of connected devices
